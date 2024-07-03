@@ -1,0 +1,17 @@
+Hypomethylated:
+
+IL21R
+CIITA
+TRPM2
+MARK2
+
+
+Hypermethylated:
+
+PDLIM4
+PDLIM4
+CLDN5
+C21orf84
+CHRM1
+PLEKHB1
+MMRN2
