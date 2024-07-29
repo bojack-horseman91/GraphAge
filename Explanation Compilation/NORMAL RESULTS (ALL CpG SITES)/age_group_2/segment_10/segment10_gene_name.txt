@@ -1,0 +1,17 @@
+Hypomethylated:
+
+PRIC285
+NOXA1
+PTK6
+FLJ20245
+AVP
+TMEM129
+CCND1
+SCARF1
+OXT
+HDAC10
+
+
+Hypermethylated:
+
+CENTB5
